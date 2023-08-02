@@ -7,5 +7,7 @@ import { Subject } from 'rxjs';
   styleUrls: ['./search.component.css']
 })
 export class SearchComponent {
-input$=new Subject<string>();3
+input$=new Subject<string>();
+
+
 }
